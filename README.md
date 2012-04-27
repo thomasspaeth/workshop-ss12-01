@@ -6,7 +6,7 @@ Der erste Workshoptermin widmet sich vor allem der Vorbereitung, sowie ersten Au
 
 Der Ordner `example_apps` enhält Quelltext in zwei unterschiedlichen Schwierigkeitsgraden. Für den Workshop wird vorausgesetzt, dass jeder Teilnehmer den Inhalt von `easy.cpp` versteht.
 
-### Folien zum Vortrag
+### Folien zum Vortrag22
 
 Die Vortragsfolien stehen als [PDF](https://github.com/downloads/kit-cpp-workshop/workshop-ss12-01/slides.pdf) zum Download bereit. Außerdem liegt der LaTeX-Quellcode zu den Folien im Ordner `slides`.
 
