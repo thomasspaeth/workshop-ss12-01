@@ -1,6 +1,6 @@
 # Workshop 27. April 2012
 
-## Inhalt
+## Inhalt2
 
 Der erste Workshoptermin widmet sich vor allem der Vorbereitung, sowie ersten Aufgaben, die in die Materie einführen. Um schnell starten zu können, soll Aufgabe 0 bereits vor dem Workshoptermin bearbeitet werden.
 
